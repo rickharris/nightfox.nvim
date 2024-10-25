@@ -28,7 +28,7 @@ let dawnfox_theme = {
    shape_filepath: "#575279"
    shape_flag: "#56949f"
    shape_float: "#d7827e"
-   shape_globpattern: "#dd9024"
+   shape_globpattern: "#a66c1b"
    shape_int: "#d7827e"
    shape_internalcall: "#907aa9"
    shape_list: "#625c87"
@@ -37,7 +37,7 @@ let dawnfox_theme = {
    shape_operator: "#625c87"
    shape_record: "#625c87"
    shape_string: "#618774"
-   shape_string_interpolation: "#dd9024"
+   shape_string_interpolation: "#a66c1b"
    shape_table: "#625c87"
    shape_variable: "#575279"
 }
